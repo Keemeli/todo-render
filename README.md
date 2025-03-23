@@ -1,4 +1,3 @@
-# todo-render
-I did all 8 parts of the assignments, I reached some errors that I couldnt get past. I can't post the project on Github because the file is too large, some file that I cant delete (and then push original files to main). I've tried for a long time to fix all of it and nothing works.
-
+The implementation includes setting up an Express server in index.js with a specified port, deploying the application on Render.com, using dotenv to manage environment variables, and utilizing PostgreSQL for database queries through the pg library to handle task operations such as fetching, adding, and deleting tasks.
+link for the server
 https://todo-render-uhch.onrender.com
